@@ -102,7 +102,7 @@ jupyter notebook notebooks/ACP_project.ipynb
 **Souad Zriouil**  
 AI Engineer | Data Scientist | Machine Learning | NLP | LLM  
 
-🔗 LinkedIn: https://www.linkedin.com/
+🔗 LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/souad-zriouil-54b19b267/)
 
 ---
 
