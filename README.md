@@ -56,16 +56,18 @@ PCA-Analysis-of-Arab-Public-Opinion-on-Gaza-Conflict/
 ## 📊 Visualizations
 
 ### 🔹 Distribution of SMPEU
-![Histogram](visuals/histogram_smpeu.png)
+<img width="726" height="645" alt="Histogramme de la variable SMPEU" src="https://github.com/user-attachments/assets/f3c9dfed-ae6f-480c-81ba-37258f0ddb21" />
+
 
 ### 🔹 Correlation Heatmap
-visuals/Heatmap.png
+<img width="771" height="666" alt="Heatmap" src="https://github.com/user-attachments/assets/e32bd630-bb87-47fd-96d4-3c9ebda1bbb1" />
 
 ### 🔹 Scree Plot (PCA)
-![Scree Plot](visuals/scree_plot.png)
+<img width="920" height="605" alt="Le graphe des valeurs propre " src="https://github.com/user-attachments/assets/daab4886-618e-40e1-a2c4-86d17d44cbaf" />
+
 
 ### 🔹 Observations by Country
-![Qualitative](visuals/qualitative_analysis.png)
+<img width="770" height="675" alt="l&#39;analyse de la variable qualitative " src="https://github.com/user-attachments/assets/9a59b216-295c-4776-95ce-6f48a90c2a91" />
 
 ---
 
