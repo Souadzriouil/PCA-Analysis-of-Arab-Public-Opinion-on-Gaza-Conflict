@@ -59,7 +59,7 @@ PCA-Analysis-of-Arab-Public-Opinion-on-Gaza-Conflict/
 ![Histogram](visuals/histogram_smpeu.png)
 
 ### 🔹 Correlation Heatmap
-![Heatmap](visuals/heatmap.png)
+visuals/Heatmap.png
 
 ### 🔹 Scree Plot (PCA)
 ![Scree Plot](visuals/scree_plot.png)
